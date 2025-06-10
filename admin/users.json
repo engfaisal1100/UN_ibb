@@ -1,0 +1,12 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$MMYRKDPjy3Q6PtbGC5eLZuSP\/lzJ1KKYmHxQZ3gnLu2mnNq2gbepS"
+    },
+    {
+        "username": "fat",
+        "email": "fat@gamil.com",
+        "password": "$2y$10$Xtq3Tgyw.FSjQUEZfUIpcen7s1PmjlEcB3KivLhCnR5RS.jWi.hjW"
+    }
+]
